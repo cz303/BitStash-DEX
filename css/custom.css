@@ -163,3 +163,72 @@ span.input-group-text {
 .modal-content {
     background-color: #434343!important;
 }
+
+a.basePairText:hover {
+    background-color: #969696!important;
+}
+
+.alertify .ajs-dialog {
+    background-color: #434343!important;
+}
+
+.alertify .ajs-header {
+    border-bottom: 1px solid #434343!important;
+    background-color: #434343!important;
+}
+
+.alertify .ajs-footer {
+    background-color: #434343!important;
+    border-top: 1px solid #434343!important;
+}
+
+.balancedivTopBarSpan {
+    color: white!important;
+}
+
+.balanceMiddleDivTitle {
+    color: white!important;
+}
+
+.balanceMiddleDivSpan {
+    color: white!important;
+}
+
+.balanceMiddleTokenSymbol {
+    color: white!important;
+}
+
+.balanceMiddleTokenBalance {
+    color: white!important;
+}
+
+div#balancesDropdown {
+    border: 1px solid #434343!important;
+}
+
+.dropdown-menu {
+    color: white!important;
+    background-color: #434343!important;
+}
+
+.navBarContainer {
+    background-color: #323232!important;
+    max-height: 3.6rem!important;
+}
+
+.mobileMenu {
+    background: #434343!important;
+}
+
+ul.dropdown-menu.dropdown-menu-left.show {
+    padding-left: 18px!important;
+}
+
+.dropdown-item a {
+    display: block;
+    color: white!important;
+}
+
+.dropdown-item a:hover {
+    color: black!important;
+}

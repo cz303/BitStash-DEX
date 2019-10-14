@@ -13208,13 +13208,13 @@ color: #000000;
       align-items: center;
       justify-content: center;
       padding: 20px;
-      border-bottom: 1px solid #2E3D45;
+      border-bottom: 1px solid #969696;
 }
 .balanceMiddleToken{
   display: flex;
     flex-direction: column;
     padding: 20px;
-    border-bottom: 1px solid #2e3d45;
+    border-bottom: 1px solid #969696;
 }
 .balanceMiddleHolder{
   display: flex;
