@@ -111,3 +111,15 @@ body.dark .table-trades a, body.dark .table-trades td:first-child {
     background-color: #424242 !important;
     color: white !important;
 }
+
+.nav-link2.active {
+    border-bottom: 1px solid white!important;
+}
+
+.openOrdersClass {
+    color: white!important;
+}
+
+.thin-hr {
+    background-color: #434343!important;
+}
