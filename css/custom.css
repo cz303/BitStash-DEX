@@ -159,3 +159,7 @@ span.input-group-text {
 .selectMarketPair:hover {
     color: black!important;
 }
+
+.modal-content {
+    background-color: #434343!important;
+}
