@@ -120,10 +120,6 @@ body.dark .table-trades a, body.dark .table-trades td:first-child {
     color: white!important;
 }
 
-.thin-hr {
-    background-color: #434343!important;
-}
-
 body.dark .component .form-control {
     background-color: #434343!important;
     border: 1px solid #434343!important;
