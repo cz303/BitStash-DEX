@@ -11,28 +11,27 @@ Add Custom Styles Below
 
 .navBarDiv {
     background-color: #323232;
-    color: white;
+    color: white!important;
 }
 
 span.flexP {
-    color: white;
+    color: white!important;
 }
 
 a.flexP {
-    color: white;
+    color: white!important;
 }
 
 .selectMarketDiv {
-    background: linear-gradient(180deg, rgba(36, 57, 118, 1) 100%, rgba(24, 79, 230, 1) 0%);
-    border-bottom: 1px solid #184FE6;
+    background: linear-gradient(180deg, rgba(36, 57, 118, 1) 100%, rgba(24, 79, 230, 1) 0%)!important;
+    border-bottom: 1px solid #184FE6!important;
 }
 
 .lineBreak {
-    border-left: 2px solid #1f1f1f;
-    height: 3rem;
+    border-left: 2px solid #1f1f1f!important;
 }
 
 .flexP {
-    bottom: 0.7rem;
+    bottom: 0.7rem!important;
 }
 
