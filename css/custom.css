@@ -233,6 +233,14 @@ ul.dropdown-menu.dropdown-menu-left.show {
     color: black!important;
 }
 
+span.buy {
+    color: white;
+}
+
+span {
+    color: white;
+}
+
 @media only screen and (max-device-width:700px) {
 
 li.dropdown-item span.trn.orderbooktd {
