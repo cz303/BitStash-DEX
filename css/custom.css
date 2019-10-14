@@ -232,3 +232,15 @@ ul.dropdown-menu.dropdown-menu-left.show {
 .dropdown-item a:hover {
     color: black!important;
 }
+
+@media only screen and (max-device-width:510px) {
+li.dropdown-item {
+    padding-left: 300px;
+}
+}
+
+@media only screen and (max-device-width:700px) {
+li.dropdown-item {
+    padding-left: 170px;
+}
+}
