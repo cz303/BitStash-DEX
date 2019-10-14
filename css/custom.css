@@ -36,28 +36,28 @@ a.flexP {
 }
 
 .statBarDiv {
-    background: #212121;
-    max-height: 3rem;
-    margin-top: 0px;
-    min-height: 3rem;
+    background: #212121!important;
+    max-height: 3rem!important;
+    margin-top: 0px!important;
+    min-height: 3rem!important;
 }
 
 .tokenPairingP {
-    color: white;
+    color: white!important;
 }
 
 .lastPriceUSD {
-    color: white;
+    color: white!important;
 }
 
 .lastPriceText {
-    color: white;
+    color: white!important;
 }
 
 .hourText {
-    color: white;
+    color: white!important;
 }
 
 .contractInfoName {
-    color: white;
+    color: white!important;
 }
