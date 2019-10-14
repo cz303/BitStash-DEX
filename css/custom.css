@@ -69,3 +69,36 @@ body.dark .component {
 body.dark {
     background-color: #101010!important;
 }
+
+body.dark .table-order-book tr.sell-row:nth-child(even) {
+    background: transparent!important;
+}
+
+body.dark .table-order-book tr.buy-row:nth-child(odd) {
+    background: transparent!important;
+}
+
+.table-trades tr:nth-of-type(even) {
+    background: transparent!important;
+}
+
+body.dark .component-header {
+    color: white!important;
+}
+
+body.dark .table-order-book th {
+    color: white!important;
+}
+
+body.dark table th {
+    color: white!important;
+    padding-left: 12px!important;
+}
+
+body.dark .table-trades a, body.dark .table-trades td:first-child {
+    color: white!important;
+}
+
+.table-trades td {
+    color: white!important;
+}
