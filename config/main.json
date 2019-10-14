@@ -425,7 +425,7 @@
 
   ],
   "defaultPair": {
-    "token": "ESH",
+    "token": "STASH",
     "base": "ETH"
   }
 }
