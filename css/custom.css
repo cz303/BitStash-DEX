@@ -9,6 +9,30 @@ Add Custom Styles Below
 */
 
 
-.LogoDiv.navBarDiv {
-    background-color: black;
+.navBarDiv {
+    background-color: #323232;
+    color: white;
 }
+
+span.flexP {
+    color: white;
+}
+
+a.flexP {
+    color: white;
+}
+
+.selectMarketDiv {
+    background: linear-gradient(180deg, rgba(36, 57, 118, 1) 100%, rgba(24, 79, 230, 1) 0%);
+    border-bottom: 1px solid #184FE6;
+}
+
+.lineBreak {
+    border-left: 2px solid #1f1f1f;
+    height: 3rem;
+}
+
+.flexP {
+    bottom: 0.7rem;
+}
+
