@@ -130,3 +130,11 @@ body.dark .component .form-control {
     color: white!important;
 }
 
+div {
+    color: white!important;
+}
+
+span.input-group-text {
+    color: white!important;
+}
+
