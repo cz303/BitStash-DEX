@@ -237,4 +237,16 @@ ul.dropdown-menu.dropdown-menu-left.show {
 span.trn.orderbooktd {
     padding-left: 300px!important;
 }
+
+li.dropdown-item span.trn.orderbooktd {
+    padding-left: 0px!important;
+}
+
+li.dropdown-item {
+    padding-left: 100px;
+}
+
+ul.dropdown-menu.dropdown-menu-left.show {
+    transform: translate3d(-90px, 238px, 0px)!important;
+}
 }
