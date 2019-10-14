@@ -233,14 +233,8 @@ ul.dropdown-menu.dropdown-menu-left.show {
     color: black!important;
 }
 
-@media only screen and (max-device-width:510px) {
-span.trn.orderbooktd {
-    padding-left: 300px!important;
-}
-}
-
 @media only screen and (max-device-width:700px) {
 span.trn.orderbooktd {
-    padding-left: 170px!important;
+    padding-left: 300px!important;
 }
 }
