@@ -234,9 +234,6 @@ ul.dropdown-menu.dropdown-menu-left.show {
 }
 
 @media only screen and (max-device-width:700px) {
-span.trn.orderbooktd {
-    padding-left: 300px!important;
-}
 
 li.dropdown-item span.trn.orderbooktd {
     padding-left: 0px!important;
@@ -248,5 +245,13 @@ li.dropdown-item {
 
 ul.dropdown-menu.dropdown-menu-left.show {
     transform: translate3d(-90px, 238px, 0px)!important;
+}
+
+ul.dropdown-menu.selectMarketDropdown.show li.dropdown-item {
+    padding-left: 14px!important;
+}
+
+.basePairDiv {
+    font-size: 9px!important;
 }
 }
