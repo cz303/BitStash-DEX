@@ -13766,9 +13766,9 @@ width: 17rem;
 
 .component-tabs .nav-link.active {
     /* margin-bottom: -2px; */
-    background-color: #FFFFFF !important;
-    border-bottom: none !important;
-    color: #000000 !important;
+    background-color: #FFFFFF;
+    border-bottom: none;
+    color: #000000;
 }
 .component-tabs .nav-link.active2 {
     /* margin-bottom: -2px; */
