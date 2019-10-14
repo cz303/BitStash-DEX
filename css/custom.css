@@ -61,3 +61,11 @@ a.flexP {
 .contractInfoName {
     color: white!important;
 }
+
+body.dark .component {
+    background-color: #2e2e2e!important;
+}
+
+body.dark {
+    background-color: #101010!important;
+}
