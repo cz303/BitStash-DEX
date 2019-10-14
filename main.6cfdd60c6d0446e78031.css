@@ -14430,9 +14430,9 @@ body.dark .component .input-group>.form-control {
 }
 
 body.dark .component .input-group-text {
-    background-color: #ffffff;
-    border-color: #969696;
-    color: #969696;
+	background-color: #434343;
+    border-color: #434343;
+    color: white;
     border-left: none;
     font-size: .8rem;
 }
