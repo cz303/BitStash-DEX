@@ -42,7 +42,7 @@
     {
       "addr": "0x965f109d31ccb77005858defae0ebaf7b4381652",
       "name": "STASH",
-      "decimals": 8
+      "decimals": 18
     },
     {
       "addr": "0x0000000000085d4780b73119b644ae5ecd22b376",
