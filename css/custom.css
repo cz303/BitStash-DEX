@@ -234,13 +234,13 @@ ul.dropdown-menu.dropdown-menu-left.show {
 }
 
 @media only screen and (max-device-width:510px) {
-li.dropdown-item {
-    padding-left: 300px;
+span.trn.orderbooktd {
+    padding-left: 300px!important;
 }
 }
 
 @media only screen and (max-device-width:700px) {
-li.dropdown-item {
-    padding-left: 170px;
+span.trn.orderbooktd {
+    padding-left: 170px!important;
 }
 }
