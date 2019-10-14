@@ -40,9 +40,9 @@
       "decimals": 18
     },
     {
-      "addr": "0x965f109d31ccb77005858defae0ebaf7b4381652",
-      "name": "STASH",
-      "decimals": 18
+      "addr": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "WBTC",
+      "decimals": 8
     },
     {
       "addr": "0x0000000000085d4780b73119b644ae5ecd22b376",
