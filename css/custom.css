@@ -230,7 +230,7 @@ ul.dropdown-menu.dropdown-menu-left.show {
 }
 
 .dropdown-item a:hover {
-    color: black!important;
+    color: white!important;
 }
 
 span.buy {
@@ -239,6 +239,10 @@ span.buy {
 
 span {
     color: white;
+}
+
+li.dropdown-item:hover {
+    background-color: #6b6b6b!important;
 }
 
 @media only screen and (max-device-width:700px) {
