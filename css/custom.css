@@ -245,6 +245,10 @@ li.dropdown-item:hover {
     background-color: #6b6b6b!important;
 }
 
+span.input-group-text {
+    background-color: #434343;
+}
+
 @media only screen and (max-device-width:700px) {
 
 li.dropdown-item span.trn.orderbooktd {
