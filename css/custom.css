@@ -249,6 +249,10 @@ span.input-group-text {
     background-color: #434343;
 }
 
+.candleTimeDropdown {
+    background: #434343!important;
+}
+
 @media only screen and (max-device-width:700px) {
 
 li.dropdown-item span.trn.orderbooktd {
