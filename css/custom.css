@@ -274,4 +274,8 @@ ul.dropdown-menu.selectMarketDropdown.show li.dropdown-item {
 .basePairDiv {
     font-size: 9px!important;
 }
+
+.burgerMenu {
+    background-color: white!important;
+}
 }
