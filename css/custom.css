@@ -253,12 +253,8 @@ span.input-group-text {
     background: #434343!important;
 }
 
-.balanceNav {
+body.dark {
     background-color: #434343!important;
-}
-
-div#bodyContainer {
-    background-color: #434343;
 }
 
 @media only screen and (max-device-width:700px) {
