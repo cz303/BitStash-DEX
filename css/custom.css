@@ -253,10 +253,6 @@ span.input-group-text {
     background: #434343!important;
 }
 
-body.dark {
-    background-color: #434343!important;
-}
-
 @media only screen and (max-device-width:700px) {
 
 li.dropdown-item span.trn.orderbooktd {
