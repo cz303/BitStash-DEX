@@ -253,20 +253,12 @@ span.input-group-text {
     background: #434343!important;
 }
 
-.navbar-brand-balances {
-    background: url(https://bitstashco.github.io/BitStash-DEX/bitstash-dex-exchange-light.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
-    position: absolute;
-    left: 0;
-    right: 0;
-    margin-left: auto;
-    margin-right: auto;
-    bottom: 0;
-    top: 0;
-    margin-top: auto;
-    margin-bottom: auto;
+.balanceNav {
+    background-color: #434343!important;
+}
+
+div#bodyContainer {
+    background-color: #434343;
 }
 
 @media only screen and (max-device-width:700px) {
